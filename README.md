@@ -12,7 +12,7 @@
   
 
 <p  align="center">
-<img  alt="License"  src="https://img.shields.io/static/v1?label=license&message=GPL v3&color=12D842&labelColor=000000"> <img  src="https://img.shields.io/static/v1?label=JSE&message=03&color=12D842&labelColor=000000"  alt="JSE" />
+<img  alt="License"  src="https://img.shields.io/static/v1?label=license&message=GPL_v3&color=12D842&labelColor=000000"> <img  src="https://img.shields.io/static/v1?label=JSE&message=03&color=12D842&labelColor=000000"  alt="JSE" />
 </p>
 
  ![logo](./screen-semanajs03.png)
